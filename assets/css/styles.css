@@ -1419,7 +1419,8 @@ button i {
   }
 
   .about__description {
-    font-size: var(--h1-font-size);
+    /* font-size: var(--h1-font-size); */
+    font-size: 2rem;
     margin-bottom: 2rem;
   }
 
