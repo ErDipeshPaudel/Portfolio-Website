@@ -1,2 +1,6 @@
 This is the project of Personal Portfolio website I made just for practicing the Frontend Web Development
-This project will be live in the given URL or Link
+This project is Live at:
+
+Github Live link: https://erdipeshpaudel.github.io/Portfolio-Website/
+Netlify Live link: https://er-paudel.netlify.app/
+
