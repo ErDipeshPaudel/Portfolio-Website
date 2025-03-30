@@ -6,3 +6,6 @@ Netlify Live link: https://er-paudel.netlify.app/
 
 
 Goint to make some changes in this portfolio website
+
+
+#Update March 30 2025, I am updating this portfolio website for Data Analyst role. Its available in my Github Reposotary as well.
